@@ -220,6 +220,7 @@ class ReadyQueue {
     // ready queue)
     public String snapshot() {
         // TODO Feature 1: protect this critical section
+        queueLock.lock();
         try {
             StringBuilder sb = new StringBuilder();
             for (Thread t : list) {
