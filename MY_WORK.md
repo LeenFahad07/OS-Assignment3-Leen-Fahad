@@ -42,7 +42,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [https://drive.google.com/file/d/17O3r-xo71N4ONA7zSOr9gjniqKKbp-JY/view?usp=drivesdk]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -240,7 +240,7 @@ Reviewed the final code and prepared the assignment documentation
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [9 hours]
 
 **Most challenging part**:The most challenging part was implementing the counting semaphore and handling CPU shutdown correctly. I needed to make sure that CPUs waited when the ready queue was empty and terminated when all processes had completed.
 
